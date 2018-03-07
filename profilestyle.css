@@ -1,0 +1,76 @@
+h1{background-color: beige; 
+	color:navy;
+	margin:0px;
+	border:10px;
+	padding:10px;
+	text-align: center;
+}
+
+aside{margin:10px;
+	border: 10px;
+	padding:10px;
+	background-color: pink;
+	position: absolute;
+	height:80px; 
+	width:80px;
+	float: right;
+
+}
+
+
+.nav{margin:20px;
+	border:20px;
+	padding: 15px;
+	background-color: red;
+	color:yellow;
+	position: absolute;
+  right:10px;
+  top:10px;
+  font-size: 20px;
+	}
+
+.header {
+    background-color: maroon;
+    padding: 20px;
+}
+#info {
+	background-color: maroon;
+	padding:10px;
+	text-align: center;
+}
+#about {
+	background-color:maroon;
+	color:white;
+	padding:10px;
+	text-align: center;
+}
+
+#contact {
+	background-color: maroon;
+	padding:10px;
+	text-align: center;
+	color: white;
+}
+#social {
+	background-color: maroon;
+
+}
+
+.btt {position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 200px;
+  background-color: yellow;
+}
+
+body{background-color:crimson; 
+	color:white; font-size: 25px ; 
+	font-family: Helvetica;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+h2{color:blue;}
+
